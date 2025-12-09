@@ -20,5 +20,5 @@ int main() {
   
   vector_free(vec);
 
-  return 1;
+  return 0;
 }
